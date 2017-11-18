@@ -5,7 +5,9 @@
 <img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/3dcube.png"/>
 </div>
 
-## 1、驱动安装
+## 1、客户端下载&驱动安装
+客户端下载地址：<br>
+[http://foheart.com/software/motionmars.html](http://foheart.com/software/motionmars.html)<br>
 驱动文件路径为MotionMars安装文件夹下的**FOHEART MP Driver**文件夹。<br>
 驱动安装成功后在计算机的设备管理器中会出现下图箭头所示设备：<br>
 
