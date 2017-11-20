@@ -9,6 +9,7 @@
 客户端下载地址：<br>
 [http://foheart.com/software/motionmars.html](http://foheart.com/software/motionmars.html)<br>
 驱动文件路径为MotionMars安装文件夹下的**FOHEART MP Driver**文件夹。<br>
+**注意**：MotionMars的**安装路径不可包含中文**，否则会造成驱动无法识别等错误。<br>
 驱动安装成功后在计算机的设备管理器中会出现下图箭头所示设备：<br>
 
 <div align=center>
