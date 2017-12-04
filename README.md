@@ -9,6 +9,20 @@
 客户端下载地址：<br>
 [http://foheart.com/software/motionmars.html](http://foheart.com/software/motionmars.html)<br>
 驱动文件路径为MotionMars安装文件夹下的**FOHEART MP Driver**文件夹。<br>
+打开MotionMars\FOHEART MP Driver文件夹，根据自身电脑系统版本，选择安装x86或x64版本驱动，如下图所示：<br>
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/driverfolder.png"/>
+</div>
+
+成功安装驱动：<br>
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/driverinstallsuccess.png"/>
+</div>
+
+成功安装驱动后，断开MP1硬件开发板与PC的连接，重新插拔后即可出现正确识别后的设备。<br>
+
 **注意**：MotionMars的**安装路径不可包含中文**，否则会造成驱动无法识别等错误。<br>
 驱动安装成功后在计算机的设备管理器中会出现下图箭头所示设备：<br>
 
