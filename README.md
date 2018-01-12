@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/3dcube.png"/>
 </div>
 
-##1、客户端下载&驱动安装
+## 1、客户端下载&驱动安装
 客户端下载地址：<br>
 [http://foheart.com/software/motionmars.html](http://foheart.com/software/motionmars.html)<br>
 驱动文件路径为MotionMars安装文件夹下的**FOHEART MP Driver**文件夹。<br>
@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/deviceinpc.png"/>
 </div>
 
-##2、设备检测
+## 2、设备检测
 单击下图箭头所示的按钮，等待1秒左右会在设备列表中出现连接上的设备，如果未出现设备，请检查设备驱动是否正常安装。<br>
 成功识别的设备如下图：
 
@@ -50,7 +50,7 @@
 <img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/start100hz.png"/>
 </div>
 
-##3、窗体显示
+## 3、窗体显示
 
 MotionMars共有5个窗体，分别为：<br>
 1. 姿态原始数据，分别为加速度、角速度、磁场强度。
@@ -59,7 +59,7 @@ MotionMars共有5个窗体，分别为：<br>
 4. 3D显示，使用3D图形显示融合姿态角。
 5. 磁场拟合，使用地磁场拟合数据，以获取无漂移的航向信息。
 
-##4、磁场校准
+## 4、磁场校准
 
 准备工作：将MotionMars节点远离磁干扰，例如手机、智能手表、铁、钴、镍以及它们组成的合金等磁体。<br>
 在最后一个页面，点击**计算**按钮，开始进行新的磁场校准流程。<br>
@@ -86,7 +86,7 @@ MotionMars共有5个窗体，分别为：<br>
 
 磁场校准完成后，就可以得到无漂移的XYZ三轴角度。
 
-##5、数据保存
+## 5、数据保存
 
 MotionMars可以同时录制保存多个节点的原始数据与解算数据。<br>
 1. 选中设备之前的复选框，如下图中1号箭头所示。
@@ -103,5 +103,5 @@ MotionMars可以同时录制保存多个节点的原始数据与解算数据。<
 <img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/config.png"/>
 </div>
 
-##6、注意事项
+## 6、注意事项
 （1）请勿用力弯折评估板以及核心板，外力会对电路板造成永久性损伤；即使是0.1度的弯折角度，也会对最终的解算角度造成高达每小时数十至上百度的积分误差。
