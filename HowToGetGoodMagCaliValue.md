@@ -9,11 +9,14 @@ MotionMars可对其真实工作环境周围磁场进行测量，获得硬软磁�
 ### 2.2载体不含磁性材料
 若确定载体不含任何硬磁及软磁材料，则不需要将MotionMars节点安装到载体后，与载体一起转动校准。选择**无磁空旷**环境，单独校准MotionMars节点即可。
 ## 3、图例
-下面以图例说明何为正确与错误的校准。
+下面以图例说明何为正确与错误的校准。<br>
+下图为在无干扰磁场环境下，校准MotionMars节点获得的磁场点绘制的3D图，可以看出磁场形成了一个球体（或椭球体），在球体外部没有干扰点。
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/goodcali1.png"/>
 </div>
+
+下图是在存在磁场干扰（铁）情况下，获取到的磁场点绘制的3D图，可以看出在球体之外存在若干**干扰点**（Interference），在此种环境下获取的硬软磁值会有较大误差，应避免此种情况发生。
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/badcali1.png"/>
