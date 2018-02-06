@@ -103,5 +103,15 @@ MotionMars可以同时录制保存多个节点的原始数据与解算数据。<
 <img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/config.png"/>
 </div>
 
-## 6、注意事项
-（1）请勿用力弯折评估板以及核心板，外力会对电路板造成永久性损伤；即使是0.1度的弯折角度，也会对最终的解算角度造成高达每小时数十至上百度的积分误差。
+## 6、数据回放
+
+在文件菜单中打开录制的文件，即可回放数据，拖动底部进度标尺可以按帧回放数据。
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/.png"/>
+</div>
+
+数据回放
+## 7、注意事项
+1. 请勿用力弯折评估板以及核心板，外力会对电路板造成永久性损伤；即使是0.1度的弯折角度，也会对最终的解算角度造成高达每小时数十至上百度的积分误差。
+2. 模块的安装需要与载体平面完全贴合，安装角度误差会对姿态测量造成不稳定的影响。
