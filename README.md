@@ -109,7 +109,7 @@ MotionMars可以同时录制保存多个节点的原始数据与解算数据。<
 在文件菜单中打开录制的文件，即可回放数据，拖动底部进度标尺可以按帧回放数据。
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/.png"/>
+<img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/replay.png"/>
 </div>
 
 ## 7、置零旋转
