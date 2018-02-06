@@ -1,5 +1,5 @@
 # MotionMars Docs
-惯性测量单元客户端软件帮助文档[【更新日志】](https://github.com/FOHEART/MotionMarsHelp/blob/master/update.md)
+惯性测量单元客户端软件帮助文档[【更新日志】](https://github.com/FOHEART/MotionMarsHelp/blob/master/releasenote.md)
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/3dcube.png"/>
