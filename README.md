@@ -92,7 +92,7 @@ MotionMars可以同时录制保存多个节点的原始数据与解算数据。<
 1. 选中设备之前的复选框，如下图中1号箭头所示。
 2. 选中需要保存到的地址，如下图中2号箭头所示。
 3. 点击录制按钮，如下图中3号箭头所示。
-4. 录制的数据默认保存在安装目录下的ExportAnimation文件夹中。
+4. 录制的数据默认保存在安装目录下的**ExportData**文件夹中。
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/MotionMarsHelp/master/img/clicksave.png"/>
