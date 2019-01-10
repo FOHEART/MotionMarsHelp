@@ -34,9 +34,8 @@ Email：contact@foheart.com<br>
 # MotionMars Docs
 惯性测量单元客户端软件帮助文档
 
-<div align=center>
-<img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/tail.png" width="100%"/>
-</div>
+
+[点击查看 产品手册V0.5](https://github.com/FOHEART/MotionMarsHelp/blob/master/DS-MotionMars-Q1-V0.50.pdf)
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/tail.png" width="100%"/>
