@@ -1,0 +1,6 @@
+1. 全新的UI界面。
+2. 适配了MotionMars Q1 系列；
+3. 部分bug修复；
+4. 视频介绍地址：
+http://www.foheart.com/experience.html或http://i.youku.com/foheart
+5. MD5:f707677239d6b3eb9e6f6daf03180009

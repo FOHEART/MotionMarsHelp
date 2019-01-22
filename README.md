@@ -32,10 +32,7 @@ Email：contact@foheart.com<br>
 **Copyright(C) FOHEART Co., Ltd. 2015-2018. All rights reserved.**<br>
 
 # MotionMars Docs
-惯性测量单元产品手册
-
-
-[点击查看 产品手册V0.5](https://github.com/FOHEART/MotionMarsHelp/blob/master/DS-MotionMars-Q1-V0.50.pdf)
+惯性测量单元产品
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/FOHEART/FOHEART_Unity3D_Plugin/master/help/img/tail.png" width="100%"/>
